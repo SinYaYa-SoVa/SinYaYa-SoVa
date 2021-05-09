@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SinYaYa-SoVa
+- 👀 I’m interested in Full-Stack development.
+- 🌱 I’m currently learning Django.
+- 💞️ I’m looking to collaborate on Telegram bots
+- 📫 How to reach me: via GitHub or tg: <a href="https://t.me/SinYaYa_SoVa">SinYaYa_SoVa</a>

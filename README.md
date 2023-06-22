@@ -8,5 +8,6 @@
 
 
 Data-engineer, working with Apache Airflow, love bots and automations...
+Trying to be a full stack developer :D
 
 <a href="https://t.me/SinYaYa_SoVa">Telegram</a>
